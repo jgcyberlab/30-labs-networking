@@ -10,7 +10,7 @@ Cada lab é construído do zero (topologia, endereçamento e configuração), va
 
 ---
 
-## 📊 Progresso
+## Progresso
 
 ![Progresso](https://img.shields.io/badge/labs_concluídos-10%2F30-blue)
 ![Write-ups](https://img.shields.io/badge/write--ups-6%2F30-green)
@@ -88,7 +88,7 @@ Cada lab é construído do zero (topologia, endereçamento e configuração), va
 
 ---
 
-## 🧪 Metodologia
+## Metodologia
 
 Todo lab segue o mesmo ciclo:
 
@@ -110,7 +110,7 @@ Todo lab segue o mesmo ciclo:
 
 ---
 
-## 📁 Estrutura do repositório
+## Estrutura do repositório
 
 ```
 packet-tracer-labs/
@@ -133,14 +133,14 @@ packet-tracer-labs/
 
 ---
 
-## ⚠️ Limitações
+## Limitações
 
 - O Packet Tracer é um **simulador**: nem todos os comandos e recursos do IOS real estão disponíveis, e os resultados não validam desempenho nem prontidão para produção.
 - Quando um recurso não existe na versão usada, o write-up registra o modelo, o comando tentado e a mensagem obtida, e a extensão fica marcada como **não executada**.
 
 ---
 
-## 📬 Contato
+## Contato
 
 - GitHub: [@jgcyberlab](https://github.com/jgcyberlab)
 - LinkedIn: `www.linkedin.com/in/joaogabrielmachado-cyber`
