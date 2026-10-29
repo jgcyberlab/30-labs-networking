@@ -12,7 +12,7 @@ Tarefas
 
 Topologia:
 
-!\[LabPics\\LAB1-1.png](./LabPics/LAB1-1.png)
+![TOPOLOGIA](LabPics/LAB1-1.png)
 
 É uma topologia simples, destinada à fundamentação de dispositivos, conectividade e segmentação lógica de redes.
 
@@ -44,13 +44,13 @@ Podemos reparar também que as VLANs não se comunicam entre si, já que não h�
 
 Segue abaixo um teste do PC0 (192.168.10.2, parte da VLAN 10) tentando pingar o PC1 (192.168.10.3, também parte da VLAN 10) e sendo bem-sucedido.
 
-!\[image.png](./LabPics/LAB1-2.png)
+![image.png](./LabPics/LAB1-2.png)
 
 Por outro lado, o mesmo PC (PC0) não consegue pingar o PC2 (192.168.20.2) e nem o PC4(192.168.30.2), que fazem parte das VLANs 20 e 30, respectivamente.
 
-!\[image.png](./LabPics/LAB1-3.png)
+![image.png](./LabPics/LAB1-3.png)
 
-!\[image.png](./LabPics/LAB1-4.png)
+![image.png](./LabPics/LAB1-4.png)
 
 Com isso, é possível ter uma visão prática de como funciona a segmentação lógica de uma LAN. Ainda não existe mecanismo de roteamento, mas também podemos fazer com que VLANs se comuniquem entre si.
 
